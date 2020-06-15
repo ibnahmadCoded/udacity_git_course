@@ -1,0 +1,1 @@
+This repo holds all the files I produced or used while completing the GIT course on Udacity.com. Good luck exploring.
